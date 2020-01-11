@@ -12,6 +12,6 @@
     "uniqid": "^5.2.0"
   },
   "scripts": {
-    "start": "node src/server.js"
+    "start": "node server.js"
   }
 }
